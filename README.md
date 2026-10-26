@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hubei Luojia Laboratory is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://luojia.whu.edu.cn/
+Hubei Luojia Laboratory, part of Wuhan University, focuses on aerospace information, remote sensing, and advanced measurement technologies. It operates multiple research bases, collaborates on satellite and UAV projects, and drives innovation in space‑based data acquisition and processing. The laboratory publishes news, research outcomes, and open‑source tools, and engages with industry partners to translate scientific results into practical applications across energy, infrastructure, and environmental monitoring.
+
+**Areas:** Company · Research · Aerospace · RemoteSensing · Innovation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://luojia.whu.edu.cn/)
+- [Documentation](https://luojia.whu.edu.cn/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/hubei-luojia-laboratory/](https://apis.io/providers/hubei-luojia-laboratory/).
